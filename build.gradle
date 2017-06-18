@@ -24,7 +24,6 @@ dependencyManagement {
 }
 
 group = 'lavkesh.springcloud'
-version= '1.0.0'
 jar {
     archiveName = 'cloud-model.jar'
     baseName = 'cloud-model'
